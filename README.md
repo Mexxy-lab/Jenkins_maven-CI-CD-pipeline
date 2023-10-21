@@ -1,4 +1,4 @@
-# ibt-maven
+# Jenkins_Maven CICD pipeline
 
 - [ ] Project is about deploying a java application using Jenkins and maven to a remote server. 
 - [ ] Update App.java ( hello world - this is **yourname**)
